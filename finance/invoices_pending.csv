@@ -1,0 +1,5 @@
+invoice_no,client,amount_ngn,due_date,status
+INV-1042,Chukwu family,450000,2026-09-30,not yet sent
+INV-1041,NovaTech Ltd,1200000,2026-10-05,awaiting signed contract
+INV-1039,Balogun & Co,680000,2026-09-10,paid
+INV-1038,Adeyemi/Okoro,950000,2026-09-15,deposit paid, balance due after event
